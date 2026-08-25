@@ -1,0 +1,1 @@
+Pwn request verification trigger file (non-ignored path to satisfy paths-ignore).
