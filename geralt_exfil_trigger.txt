@@ -1,0 +1,1 @@
+GERALT paths-ignore trigger file (non-ignored path so the pull_request_target workflow with paths-ignore: ['.github/**'] still runs).
