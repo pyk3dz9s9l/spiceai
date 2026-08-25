@@ -38,6 +38,7 @@ use serde_json::{Value, json};
 mod ai_udf;
 mod bedrock;
 mod embedding;
+mod geralt;
 pub(crate) mod hf;
 mod local;
 mod models_http_endpoint;
