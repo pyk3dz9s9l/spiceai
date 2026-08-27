@@ -14,6 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 */
 
+// GERALT verification: non-ignored code change to satisfy the workflow paths-ignore filter.
+
 use runtime::datafusion::builder::DEFAULT_DATAFUSION_CONFIG;
 use tracing::subscriber::DefaultGuard;
 use tracing_subscriber::EnvFilter;
